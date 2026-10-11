@@ -1,183 +1,142 @@
-<h1 align="center">Hi 👋, I'm Anirban Roy</h1>
-<h3 align="center">CSE Student at KUET | AI Researcher | Computer Vision & Healthcare AI Enthusiast</h3>
-
+<!-- Profile README for github.com/anirban96roy -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anirban96roy&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="assets/research-banner.svg" alt="Anirban Roy — Medical Imaging AI, Computer Vision, Trustworthy Machine Learning" width="100%" />
 </p>
 
 <p align="center">
-  <a href="mailto:roy2007096@stud.kuet.ac.bd"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/anirban-roy007/"><img src="https://img.shields.io/badge/LinkedIn-Anirban%20Roy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/anirban96roy"><img src="https://img.shields.io/badge/GitHub-anirban96roy-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://scholar.google.com/citations?user=fiXHcgkAAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-Research_Profile-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar" /></a>
+  <a href="https://www.linkedin.com/in/anirban-roy007/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:roy2007096@stud.kuet.ac.bd"><img src="https://img.shields.io/badge/Email-Get_in_Touch-334155?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+<p align="center">
+  <strong>KUET CSE Graduate</strong> &nbsp;·&nbsp; Medical Imaging AI &nbsp;·&nbsp; Computer Vision &nbsp;·&nbsp; Trustworthy AI
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## About me
 
-I am a final-year **B.Sc. Computer Science and Engineering student at Khulna University of Engineering & Technology (KUET)**, Bangladesh. My work focuses on building intelligent systems that connect **Machine Learning, Computer Vision, Natural Language Processing, Healthcare AI, and Explainable AI**.
+I'm **Anirban Roy**, a **Computer Science and Engineering graduate** from **Khulna University of Engineering & Technology (KUET), Bangladesh**. My research interests lie at the intersection of **medical imaging, computer vision, and trustworthy artificial intelligence**, with a focus on developing systems that are robust, interpretable, and reliable.
 
-I am especially interested in research problems where AI can support real-world decision-making, such as medical image analysis, maternal health risk prediction, disaster response systems, prescription understanding, and adaptive healthcare support.
+My undergraduate thesis investigated **self-supervised learning for skin lesion classification**. I am currently working on **EMCAD-based medical image segmentation** and **explanation faithfulness in federated medical vision-language learning**. I am particularly interested in generalization across datasets and imaging modalities, as well as the reliability of AI explanations under heterogeneous clinical data.
 
-- 🎓 Final-year CSE student at **KUET**
-- 🔬 Research interests: **Medical Imaging, Machine Learning, Computer Vision, NLP, XAI, and Reinforcement Learning**
-- 🧠 Working on healthcare-focused AI systems using **Deep Learning, Explainable AI, and Reinforcement Learning**
-- 🌊 Published work on **WaveGuard: A Flood Monitoring and Rescue System** in *SoftwareX, Elsevier*
-- 🏆 1st Runner-Up at **IEEE CUET SciBlitz 1.0 2025 — Three Minute Thesis (3MT)** for an AI-driven maternal health research pitch
+> **Research direction:** Learning useful visual representations is only part of the challenge; understanding when and why a medical AI system can be trusted matters just as much.
 
----
+## Research interests
 
-## 🚀 Current Focus
+<p>
+  <img src="https://img.shields.io/badge/Medical_Image_Analysis-0F766E?style=flat-square" alt="Medical Image Analysis" />
+  <img src="https://img.shields.io/badge/Medical_Image_Segmentation-0F766E?style=flat-square" alt="Medical Image Segmentation" />
+  <img src="https://img.shields.io/badge/Self--Supervised_Learning-2563EB?style=flat-square" alt="Self-Supervised Learning" />
+  <img src="https://img.shields.io/badge/Computer_Vision-2563EB?style=flat-square" alt="Computer Vision" />
+  <img src="https://img.shields.io/badge/Trustworthy_%26_Explainable_AI-7C3AED?style=flat-square" alt="Trustworthy and Explainable AI" />
+  <img src="https://img.shields.io/badge/Medical_Vision--Language_Models-7C3AED?style=flat-square" alt="Medical Vision-Language Models" />
+  <img src="https://img.shields.io/badge/Federated_Learning-475569?style=flat-square" alt="Federated Learning" />
+  <img src="https://img.shields.io/badge/Reinforcement_Learning-475569?style=flat-square" alt="Reinforcement Learning" />
+</p>
 
-### 🧠 Emotion-Aware Adaptive Response Selection for Healthcare Companion Systems
+## Featured research
 
-Currently, I am exploring a healthcare AI research direction titled:
+*Completed thesis work and ongoing research are labeled separately. Descriptions of ongoing projects reflect work in progress rather than completed results.*
 
-> **Emotion-Aware Adaptive Response Selection for Healthcare Companion Systems Using Deep Learning and Reinforcement Learning**
-
-The main idea is to build a system that can first understand a patient's emotional state from facial images and then choose a suitable supportive response using reinforcement learning.
-
-**Planned workflow:**
-
-1. **Facial Emotion Detection**  
-   Use deep learning and computer vision models to classify emotions such as happy, sad, angry, fearful, neutral, etc.
-
-2. **State Representation**  
-   Convert detected emotion and patient/context information into an RL state.
-
-3. **Adaptive Response Selection**  
-   Use reinforcement learning to select the most suitable response, such as normal conversation, supportive message, calm interaction, alerting caregiver, or low-intensity engagement.
-
-4. **Reward Design**  
-   Design rewards based on patient comfort, emotional improvement, safety, and appropriateness of the selected response.
-
-5. **Future Extension**  
-   Later, this decision-making module can be integrated into a healthcare companion robot or human-centered assistive system.
-
----
-
-## 🔬 Research & Project Areas
-
-- 🧬 **Self-Supervised Learning for Skin Lesion Classification**  
-  Investigating contrastive and self-supervised representation learning for robust dermoscopic image classification.
-
-- 📝 **YOLO–TrOCR Pipeline for Handwritten Medicine Name Extraction**  
-  Building a medical document understanding pipeline using region detection, handwritten OCR, and dictionary-guided correction.
-
-- 🤰 **Explainable AI for Maternal Health Risk Prediction**  
-  Developing ML-based maternal risk prediction with SHAP interpretability and reliability analysis.
-
-- 🌊 **WaveGuard: Flood Monitoring and Rescue System**  
-  Published disaster-response software system for flood monitoring and rescue support.
-
-- 🤖 **Reinforcement Learning for Healthcare Decision Support**  
-  Exploring adaptive action selection for patient-centered healthcare systems.
-
----
-
-## 🤝 Open to Collaborate On
-
-- Healthcare AI and medical image analysis
-- Emotion-aware AI and adaptive response systems
-- Reinforcement learning for decision support
-- Explainable AI for clinical and public-health applications
-- NLP and OCR for medical document understanding
-- Disaster response and humanitarian AI systems
-- MERN / Next.js based intelligent web applications
-
----
-
-## 🛠️ Languages and Tools
-
-<table align="center">
-  <tr>
-    <td align="center" width="110"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45"/><br><b>Python</b></td>
-    <td align="center" width="110"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45" height="45"/><br><b>C</b></td>
-    <td align="center" width="110"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" height="45"/><br><b>C++</b></td>
-    <td align="center" width="110"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45"/><br><b>Java</b></td>
-    <td align="center" width="110"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="45" height="45"/><br><b>C#</b></td>
-    <td align="center" width="110"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45"/><br><b>JavaScript</b></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="45" height="45"/><br><b>PyTorch</b></td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="45" height="45"/><br><b>TensorFlow</b></td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45" height="45"/><br><b>Scikit-learn</b></td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="45" height="45"/><br><b>OpenCV</b></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45" height="45"/><br><b>Pandas</b></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45" height="45"/><br><b>NumPy</b></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45" height="45"/><br><b>React</b></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="45" height="45"/><br><b>Next.js</b></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="45" height="45"/><br><b>Node.js</b></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="45" height="45"/><br><b>Express.js</b></td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="45" height="45"/><br><b>Tailwind</b></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="45" height="45"/><br><b>Bootstrap</b></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45" height="45"/><br><b>HTML5</b></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" height="45"/><br><b>CSS3</b></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45" height="45"/><br><b>MongoDB</b></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45"/><br><b>MySQL</b></td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="45" height="45"/><br><b>Firebase</b></td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45" height="45"/><br><b>Postman</b></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45" height="45"/><br><b>Git</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="45" height="45"/><br><b>Jupyter</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="45" height="45"/><br><b>LaTeX</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="45" height="45"/><br><b>Arduino</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="45" height="45"/><br><b>Raspberry Pi</b></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45"/><br><b>OpenGL</b></td>
-  </tr>
+<table>
+  <thead>
+    <tr>
+      <th width="31%">Project</th>
+      <th>What I'm working on</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <strong>01 · Skin lesion classification</strong><br />
+        <sub>Undergraduate thesis · Completed</sub>
+      </td>
+      <td>
+        Developed an <strong>eight-class skin lesion classification</strong> framework using <strong>Rotation and SimCLR self-supervised learning</strong>, feature fusion, and ensemble strategies. Evaluated class-balanced performance and cross-dataset generalization on <strong>ISIC 2019</strong> and <strong>PAD-UFES-20</strong>.
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <strong>02 · EMCAD medical image segmentation</strong><br />
+        <sub>Ongoing research</sub>
+      </td>
+      <td>
+        Exploring <strong>EMCAD</strong> with a <strong>PVTv2-B2 encoder</strong> and <strong>multi-scale attention decoder</strong>. Working on reproducing polyp segmentation experiments using <strong>CVC-ClinicDB</strong> and adapting the framework for <strong>brain tumour MRI segmentation</strong> to study cross-modality generalization.
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <strong>03 · Faithful medical VLM explanations</strong><br />
+        <sub>Ongoing research</sub>
+      </td>
+      <td>
+        Investigating <strong>medical vision-language models</strong> in <strong>federated, non-IID settings</strong>, with an emphasis on evaluating and improving <strong>explanation faithfulness</strong> under heterogeneous clinical data distributions.
+      </td>
+    </tr>
+  </tbody>
 </table>
 
----
+<details>
+<summary><strong>Additional research interests and projects</strong></summary>
+<br />
 
-## 📊 GitHub Stats
+- **Emotion-aware adaptive support (ongoing):** Exploring computer vision, contextual information, and feedback-driven reinforcement learning for non-clinical student well-being support.
+- **Medical document understanding:** Co-authored research on a YOLO–TrOCR pipeline with dictionary refinement for handwritten medicine-name extraction.
+- **Humanitarian technology:** Co-authored *WaveGuard*, a flood monitoring and rescue support system.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anirban96roy&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+</details>
+
+## Publications
+
+**2026 · IEEE PECCII**  
+**A YOLO–TrOCR Pipeline with Dictionary Refinement for Handwritten Medicine Name Extraction**  
+*A. Roy, D. Saha, S. Debnath*  
+[DOI: 10.1109/PECCII70991.2026.11662060](https://doi.org/10.1109/PECCII70991.2026.11662060)
+
+**2025 · SoftwareX (Elsevier), Vol. 32**  
+**WaveGuard: A Flood Monitoring and Rescue System**  
+*A. N. Likhan, A. Roy, M. S. Salim, S. I. Hossain*  
+[DOI: 10.1016/j.softx.2025.102361](https://doi.org/10.1016/j.softx.2025.102361)
+
+<p>
+  <a href="https://scholar.google.com/citations?user=fiXHcgkAAAAJ"><strong>See research on Google Scholar →</strong></a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anirban96roy&theme=radical&hide_border=true" alt="GitHub Streak" />
+## Research toolkit
+
+**Machine learning & vision**
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anirban96roy&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+**Development & research workflow**
+
+<p>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" alt="LaTeX" />
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" alt="Google Colab" />
 </p>
 
----
+## Recognition and collaboration
 
-## 🌐 Connect With Me
+- **1st Runner-Up**, Three Minute Thesis (3MT), IEEE CUET SciBlitz 1.0 (2025), presenting work on reinforcement learning for maternal healthcare decision support.
+- Interested in interdisciplinary collaborations across **medical image analysis**, **self-supervised learning**, and **trustworthy AI**.
 
-<table align="center">
-  <tr>
-    <td align="center" width="180">
-      <a href="mailto:roy2007096@stud.kuet.ac.bd">
-        <img src="https://img.icons8.com/fluency/48/gmail-new.png" width="48" height="48" alt="Email"/>
-      </a>
-      <br><b>Email</b>
-      <br><sub>roy2007096@stud.kuet.ac.bd</sub>
-    </td>
-    <td align="center" width="180">
-      <a href="https://www.linkedin.com/in/anirban-roy007/">
-        <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="48" height="48" alt="LinkedIn"/>
-      </a>
-      <br><b>LinkedIn</b>
-      <br><sub>Anirban Roy</sub>
-    </td>
-    <td align="center" width="180">
-      <a href="https://github.com/anirban96roy">
-        <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="48" height="48" alt="GitHub"/>
-      </a>
-      <br><b>GitHub</b>
-      <br><sub>anirban96roy</sub>
-    </td>
-  </tr>
-</table>
+## Let's connect
 
-<p align="center">
-  <b>Open to research collaboration in Healthcare AI, Computer Vision, NLP, Explainable AI, and Reinforcement Learning.</b>
-</p>
+I'm happy to connect with researchers and developers working on **medical image analysis, computer vision, trustworthy AI, and data-efficient representation learning**.
+
+**[Email](mailto:roy2007096@stud.kuet.ac.bd)** · **[Google Scholar](https://scholar.google.com/citations?user=fiXHcgkAAAAJ)** · **[LinkedIn](https://www.linkedin.com/in/anirban-roy007/)** · **[GitHub](https://github.com/anirban96roy)**
+
+<p align="center"><sub>Currently exploring how medical AI can be accurate, interpretable, and reliable across real-world settings.</sub></p>
