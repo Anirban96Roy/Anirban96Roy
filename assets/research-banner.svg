@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="346" viewBox="0 0 1200 346" role="img" aria-label="Anirban Roy. Research in Medical Imaging AI, Computer Vision and Trustworthy Machine Learning.">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#091425" />
+      <stop offset="0.52" stop-color="#101A32" />
+      <stop offset="1" stop-color="#13223F" />
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#50E3C2" />
+      <stop offset="1" stop-color="#7C9BFA" />
+    </linearGradient>
+    <radialGradient id="halo" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#36D7C5" stop-opacity=".24" />
+      <stop offset="1" stop-color="#36D7C5" stop-opacity="0" />
+    </radialGradient>
+    <pattern id="grid" width="27" height="27" patternUnits="userSpaceOnUse">
+      <path d="M27 0H0V27" fill="none" stroke="#BFD1FA" stroke-opacity=".065" stroke-width="1" />
+    </pattern>
+    <clipPath id="rounded"><rect width="1200" height="346" rx="23" ry="23" /></clipPath>
+  </defs>
+  <g clip-path="url(#rounded)">
+    <rect width="1200" height="346" fill="url(#bg)" />
+    <rect width="1200" height="346" fill="url(#grid)" />
+    <circle cx="1031" cy="169" r="250" fill="url(#halo)" />
+    <circle cx="-24" cy="-42" r="220" fill="url(#halo)" opacity=".5" />
+    <path d="M0 0H1200" stroke="url(#accent)" stroke-width="6" />
+    <rect x="63" y="47" width="244" height="31" rx="15.5" fill="#173C4B" stroke="#2E7D88" stroke-opacity=".8" />
+    <circle cx="82" cy="62.5" r="4.5" fill="#5BE5C8" />
+    <text x="96" y="68" font-family="DejaVu Sans, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="1.3" fill="#B6F8EA">RESEARCH • COMPUTER VISION</text>
+    <text x="60" y="162" font-family="DejaVu Sans, Segoe UI, Arial, sans-serif" font-size="65" font-weight="700" letter-spacing="-1.7" fill="#F5F8FF">Anirban Roy</text>
+    <rect x="64" y="187" width="87" height="5" rx="2.5" fill="url(#accent)" />
+    <text x="61" y="228" font-family="DejaVu Sans, Segoe UI, Arial, sans-serif" font-size="20" font-weight="500" fill="#CBD9F0">Medical Imaging AI <tspan fill="#55DBC8">•</tspan> Trustworthy Learning</text>
+    <text x="61" y="259" font-family="DejaVu Sans, Segoe UI, Arial, sans-serif" font-size="20" font-weight="500" fill="#CBD9F0">Segmentation <tspan fill="#55DBC8">•</tspan> Self-Supervision <tspan fill="#55DBC8">•</tspan> Explainability</text>
+    <text x="63" y="314" font-family="DejaVu Sans, Segoe UI, Arial, sans-serif" font-size="12" letter-spacing="1.4" fill="#8EA9C8">CSE / KHULNA UNIVERSITY OF ENGINEERING &amp; TECHNOLOGY</text>
+
+    <!-- Decorative research visualization: abstract images, masks and explanation maps -->
+    <g opacity=".98">
+      <path d="M737 92C807 40 966 26 1111 73" fill="none" stroke="#3B6C95" stroke-opacity=".7" stroke-width="1.6" stroke-dasharray="4 9" />
+      <path d="M740 271C850 315 1008 322 1114 279" fill="none" stroke="#3B6C95" stroke-opacity=".65" stroke-width="1.6" stroke-dasharray="4 9" />
+      <rect x="746" y="89" width="137" height="175" rx="16" fill="#1A304A" stroke="#6185A9" stroke-opacity=".6" />
+      <rect x="759" y="103" width="111" height="123" rx="9" fill="#203C54" />
+      <circle cx="813" cy="165" r="45" fill="#3E6474" opacity=".7" />
+      <path d="M792 134C808 118 837 129 844 153C852 175 832 204 807 203C775 202 769 165 792 134Z" fill="#90B9B9" opacity=".86" />
+      <path d="M788 164C787 143 806 131 826 140C843 150 835 177 823 187C807 199 790 187 788 164Z" fill="#D3E6D6" opacity=".8" />
+      <text x="814" y="248" text-anchor="middle" fill="#C9D8EE" font-size="10" font-weight="700" letter-spacing="1.4" font-family="DejaVu Sans, Arial">IMAGE</text>
+      <path d="M890 177H921" stroke="#55DBC8" stroke-width="2.5" /><path d="M913 170L922 177L913 184" fill="none" stroke="#55DBC8" stroke-width="2.5" />
+      <rect x="928" y="89" width="137" height="175" rx="16" fill="#1A304A" stroke="#6185A9" stroke-opacity=".6" />
+      <rect x="941" y="103" width="111" height="123" rx="9" fill="#203C54" />
+      <path d="M972 133C991 123 1016 130 1029 152C1041 174 1021 205 994 204C967 203 957 166 972 133Z" fill="#3ED4BD" opacity=".92" />
+      <path d="M983 151C991 141 1007 140 1016 153C1029 174 1007 193 992 189C975 184 974 163 983 151Z" fill="#B6FFEB" opacity=".82" />
+      <path d="M979 119V211M957 164H1041" stroke="#B6FFEB" stroke-opacity=".35" stroke-width="1.5" stroke-dasharray="3 8" />
+      <text x="996" y="248" text-anchor="middle" fill="#C9D8EE" font-size="10" font-weight="700" letter-spacing="1.4" font-family="DejaVu Sans, Arial">MASK</text>
+      <path d="M1080 177H1101" stroke="#55DBC8" stroke-width="2.5" /><path d="M1094 170L1102 177L1094 184" fill="none" stroke="#55DBC8" stroke-width="2.5" />
+      <circle cx="1128" cy="177" r="22" fill="#1E4554" stroke="#64DDCE" stroke-width="1.5" />
+      <path d="M1117 176l7 7 14-17" stroke="#8CF7DC" stroke-width="3.1" fill="none" stroke-linecap="round" stroke-linejoin="round" />
+      <text x="1128" y="213" text-anchor="middle" fill="#B9CFE6" font-size="9" font-family="DejaVu Sans, Arial">VERIFY</text>
+    </g>
+  </g>
+</svg>
